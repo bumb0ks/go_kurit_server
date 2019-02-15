@@ -1,0 +1,11 @@
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/install.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/list_install_components.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/rebuild_cache.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/edit_cache.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/install/strip.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/go_kurit_server.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/unit_tests.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/install/local.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/test.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/package.dir
+/home/bumb0ks/Projects/go_kurit_server/build/CMakeFiles/package_source.dir

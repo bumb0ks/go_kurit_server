@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="go_kurit_server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\third_party\;CMake Files\third_party\json\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="go_kurit_server">
+				<Option output="/home/bumb0ks/Projects/go_kurit_server/build/go_kurit_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/sources"/>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/third_party/json/single_include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 go_kurit_server"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="go_kurit_server/fast">
+				<Option output="/home/bumb0ks/Projects/go_kurit_server/build/go_kurit_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/sources"/>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/third_party/json/single_include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 go_kurit_server/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_tests">
+				<Option output="/home/bumb0ks/Projects/go_kurit_server/build/unit_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUNIT_TESTS"/>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/sources"/>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/third_party/json/single_include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 unit_tests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_tests/fast">
+				<Option output="/home/bumb0ks/Projects/go_kurit_server/build/unit_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUNIT_TESTS"/>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/sources"/>
+					<Add directory="/home/bumb0ks/Projects/go_kurit_server/third_party/json/single_include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 unit_tests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/home/bumb0ks/Projects/go_kurit_server/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bumb0ks/Projects/go_kurit_server/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/json_parser/json_parser.cpp">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/json_parser/json_parser.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/message_handler/message_handler.cpp">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/message_handler/message_handler.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/message_manager/message_manager.cpp">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/message_manager/message_manager.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/message_traits.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/request_resolver/request_resolver.cpp">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/request_resolver/request_resolver.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/server_app/server_app.cpp">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/domain_layer/server_app/server_app.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/main/main.cpp">
+			<Option target="go_kurit_server"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/network_layer/client_connection/client_connection.cpp">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/network_layer/client_connection/client_connection.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/network_layer/network_manager/network_manager.cpp">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/sources/network_layer/network_manager/network_manager.h">
+			<Option target="go_kurit_server"/>
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/tests/domain_layer/json_parser_test.cpp">
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/tests/main.cpp">
+			<Option target="unit_tests"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/third_party/json/nlohmann_jsonConfig.cmake">
+			<Option virtualFolder="CMake Files\third_party\json\"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/third_party/json/nlohmann_jsonConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\third_party\json\"/>
+		</Unit>
+		<Unit filename="/home/bumb0ks/Projects/go_kurit_server/third_party/json/nlohmann_jsonTargets.cmake">
+			<Option virtualFolder="CMake Files\third_party\json\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

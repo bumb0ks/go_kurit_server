@@ -1,0 +1,1 @@
+/home/bumb0ks/Projects/go_kurit_server/result/go_kurit_server
